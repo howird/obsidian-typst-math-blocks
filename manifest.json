@@ -1,11 +1,10 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-typst-math-blocks",
+	"name": "Typst Math Blocks",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "Enables Typst syntax for math blocks in Obsidian by converting it to LaTeX with tex2typst.",
+	"author": "howird",
+	"authorUrl": "https://github.com/howird",
 	"isDesktopOnly": false
 }
